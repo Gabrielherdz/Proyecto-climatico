@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambio climático</title>
+    <style>
+        body {
+            background-color: #d0ebff; /* Fondo azul claro */
+            font-family: 'Comic Sans MS', cursive, sans-serif; /* Estilo infantil */
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0077b6;
+            text-align: center;
+            background-color: #caf0f8;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        h4, h5 {
+            background-color: #ffffffcc;
+            padding: 10px;
+            border-radius: 8px;
+            margin: 5px 0;
+        }
+
+        ul {
+            background-color: #ffffffcc;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-weight: bold;
+            font-size: 18px;
+            color: #005f73;
+        }
+    </style>
+</head>
+<body>
+    <h1>¿Qué es el cambio climático?</h1>
+    <h5>El cambio climático es cuando el clima de la Tierra empieza a cambiar de manera rara y rápida. Antes, la Tierra tenía estaciones del año más predecibles, pero ahora hace más calor de lo normal, llueve en lugares donde antes no llovía tanto, o hay más tormentas fuertes.</h5>
+    <h5>Ese calentamiento hace que:</h5>
+    <ul>
+        <li>Los polos se derritan (donde viven los osos polares)</li>
+        <li>Suba el nivel del mar</li>
+        <li>Haya incendios y tormentas más fuertes</li>
+        <li>Y algunos animales y plantas tengan problemas para vivir</li>
+    </ul>
+
+    <h1>¿Cómo pasa el cambio climático?</h1>
+    <h5>1 - Las personas usamos cosas que contaminan el aire:</h5>
+    <h5>Cuando usamos carros, fábricas o quemamos carbón o gasolina, salen unos gases llamados gases de efecto invernadero (como el CO₂).</h5>
+    <h5>2 - Esos gases forman una manta invisible:</h5>
+    <h5>Se quedan alrededor de la Tierra y atrapan el calor del sol, como una cobija que no se puede quitar.</h5>
+    <h5>3 - La Tierra se empieza a calentar:</h5>
+    <h5>El planeta se calienta más de lo normal. A esto le llamamos "calentamiento global".</h5>
+    <h5>4 - El clima cambia en muchas partes del mundo:</h5>
+    <ul>
+        <li>Hace más calor en algunos lugares</li>
+        <li>Llueve menos o llueve mucho de golpe</li>
+        <li>Se derrite el hielo de los polos</li>
+        <li>Sube el nivel del mar</li>
+        <li>Hay más incendios, huracanes y sequías</li>
+    </ul>
+
+    <h1>Soluciones para cuidar la Tierra 🌍</h1>
+    <ul>
+        <li><strong>Usar menos autos y más bici o caminar 🚲</strong><br>Así se produce menos humo que contamina el aire.</li>
+        <li><strong>Plantar árboles 🌳</strong><br>Los árboles limpian el aire y ayudan a enfriar el planeta.</li>
+        <li><strong>Ahorrar electricidad 💡</strong><br>Apagar luces y aparatos cuando no se usan.</li>
+        <li><strong>Reciclar y reutilizar ♻️</strong><br>Separar la basura y usar cosas más de una vez.</li>
+        <li><strong>Cuidar el agua 🚿</strong><br>Cerrar la llave mientras te cepillas o te bañas.</li>
+        <li><strong>Comer más frutas y verduras 🥦</strong><br>Comer menos carne ayuda a reducir la contaminación.</li>
+        <li><strong>Hablar con otros 🗣️</strong><br>Cuéntale a tus amigos cómo cuidar la Tierra.</li>
+    </ul>
+
+    <h1>¡Cada acción, aunque sea pequeña, cuenta mucho! 💚</h1>
+    <h4 class="footer">Si todos ayudamos un poquito, podemos tener un planeta más limpio, fresco y feliz. 🌞🌱</h4>
+</body>
+</html>
